@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=farhadalibayli&style=flat-square)
-
 # Hi, I'm Farhad Alibayli 👋
 
 🎓 **Computer Engineering Student** at ADA University  
@@ -21,9 +19,6 @@ Currently serving as the President of the Watchmen Organization at ADA Universit
 - Expanding my backend development portfolio  
 - Deepening my knowledge in AI and Machine Learning  
 - Developing impactful real-world projects  
-
-## 📈 GitHub Stats
-![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadalibayli&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/farhadalibayli)
